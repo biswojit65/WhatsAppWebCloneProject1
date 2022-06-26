@@ -1,0 +1,51 @@
+.back-green{
+    background-color: #009688;
+    height: 15vh;
+}
+.back-light{
+    background-color: #D9DBD5;
+    height: 85vh;
+}
+.back-side{
+    position:relative;
+}
+.front-side{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+}
+.front-side2{
+    position:absolute;
+    top:20px;
+    left:0;
+    right:0;
+}
+.chat-top{
+    background-color: #EDEDED;
+    min-height: 50px;
+}
+.profile-img{
+    margin-top:9px;
+    height:35px;
+    width:35px;
+}
+.contact{
+    background-color: #ffffff;
+    min-height:550px;
+}
+.table-scroll{
+    overflow-y:scroll;
+    height:550px;
+}
+.messages{
+    background-color: #ffffff;
+    min-height:550px;
+}
+.message-table-scroll{
+    overflow-y:scroll;
+    height:500px;
+}
+.message-box{
+    background-color: #F0F0F0;
+}
