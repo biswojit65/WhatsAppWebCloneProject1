@@ -1,2 +1,7 @@
 # WhatsAppWebCloneProject1
-This is a WhatsApp web clone  Frontend project using HTML , CSS  and BOOTSTRAP. Here I have used Bootstrap to add various icon as seen in WhatsApp web. I have also used HTML and CSS for designing the outer structures to make it looking attractive. 
+
+•Designed structure of  Frontend  portion of WhatsApp web using HTML , CSS , BOOTSTRAP
+
+•Implemented HTML structuring  and CSS styling and added attractice features to make it efficient
+
+•Implemented BOOTSTRAP features to make it real time  text based communication solution for Web.
